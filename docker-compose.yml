@@ -11,4 +11,3 @@ services:
     build:
       context: .
       dockerfile: src/PublicApi/Dockerfile
-
